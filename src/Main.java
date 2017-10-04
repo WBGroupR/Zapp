@@ -8,7 +8,6 @@ public class Main {
 	   BufferedReader console = new BufferedReader(new InputStreamReader(System.in));
 
         Dice d1 = new Dice();
-
         Dice d2 = new Dice();
         Dice d3 = new Dice();
 
@@ -40,7 +39,14 @@ public class Main {
                 int turn = 0;
                 while (player.balanceExceedsLimitBy(bet) && player.getBalance() < 200)
                 {
-                    turn++;                    
+                  turn++;
+
+                  d1 = new Dice();
+                  d2 = new Dice();
+                  d3 = new Dice();
+
+                  game = new Game(d1, d2, d3);
+
                 	DiceValue pick = DiceValue.getRandom();
                    
                 	System.out.printf("Turn %d: %s bet %d on %s\n",
