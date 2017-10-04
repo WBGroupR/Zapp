@@ -520,7 +520,7 @@
       <workItem from="1506942541067" duration="2394000" />
       <workItem from="1506984209015" duration="8439000" />
       <workItem from="1506999820997" duration="11957000" />
-      <workItem from="1507067921084" duration="20330000" />
+      <workItem from="1507067921084" duration="20426000" />
     </task>
     <task id="LOCAL-00001" summary="Add automated test for Bug 1">
       <created>1506989248230</created>
@@ -627,7 +627,14 @@
       <option name="project" value="LOCAL" />
       <updated>1507116286836</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="IntelliJ workspace.iml change">
+      <created>1507116380320</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1507116380320</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -663,7 +670,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67985000" />
+    <option name="totallyTimeSpent" value="68081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="13" y="30" width="1374" height="1410" extended-state="0" />
@@ -721,7 +728,8 @@
     <MESSAGE value="Fix Log for Bug 3" />
     <MESSAGE value="Fix Log for Bug 4" />
     <MESSAGE value="Change to DiceValue Class to correct getRandom()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change to DiceValue Class to correct getRandom()" />
+    <MESSAGE value="IntelliJ workspace.iml change" />
+    <option name="LAST_COMMIT_MESSAGE" value="IntelliJ workspace.iml change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
