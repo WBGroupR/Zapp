@@ -63,7 +63,7 @@ class TestBug2 {
     int winnings = 0;
     int totalWinnings = 0;
 
-    // loop for 100 turns
+    // loop for a number of turns
     for (int i = 0; i < TURNS; i++) {
 
       // Play the round with pick
